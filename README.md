@@ -14,13 +14,17 @@ SR Flip-Flop SR flip-flop operates with only positive clock transitions or negat
 This circuit has two inputs S & R and two outputs Qtt & Qtt’. The operation of SR flipflop is similar to SR Latch. But, this flip-flop affects the outputs only when positive transition of the clock signal is applied instead of active enable. The following table shows the state table of SR flip-flop.
 
 Truth Table:
+<img width="723" height="473" alt="Screenshot 2025-12-14 183421" src="https://github.com/user-attachments/assets/5b9a824b-1cfc-4126-9b3c-f87dbf595ef4" />
 
 image
-RTL Image:
+RTL Image:[gate.pdf](https://github.com/user-attachments/files/24150139/gate.pdf)
 
 
 
-Waveimage:
+
+
+Waveimage:[waves.pdf](https://github.com/user-attachments/files/24150142/waves.pdf)
+
 
 
 
