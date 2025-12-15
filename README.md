@@ -23,7 +23,8 @@ RTL Image:[gate.pdf](https://github.com/user-attachments/files/24150139/gate.pdf
 
 
 
-Waveimage:[waves.pdf](https://github.com/user-attachments/files/24150142/waves.pdf)
+Waveimage:[waves1.pdf](https://github.com/user-attachments/files/24165620/waves1.pdf)
+
 
 
 
